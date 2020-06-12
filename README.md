@@ -16,5 +16,6 @@ Use: ```./fractol <fractal's name>```
 ![#https://github.com/lojesu/fractol/blob/master/screenshot/julia2.png](https://github.com/lojesu/fractol/blob/master/screenshot/julia2.png)
 ![#https://github.com/lojesu/fractol/blob/master/screenshot/burnjulia1.png](https://github.com/lojesu/fractol/blob/master/screenshot/burnjulia1.png)
 ![#https://github.com/lojesu/fractol/blob/master/screenshot/burnjulia2.png](https://github.com/lojesu/fractol/blob/master/screenshot/burnjulia2.png)
-![#]()
-![#]()
+
+## Contributors
+- Lojesu
