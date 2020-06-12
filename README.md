@@ -8,10 +8,30 @@ Use: ```git clone https://github.com/lojesu/fractol.git ; cd fractol; make```
 ## Launched a fractal
 Use: ```./fractol <fractal's name>```
 # what can i do ?
-<kbd>M</kbd> --- for open the menu
+<kbd>M</kbd> ------------- for open the menu
 
-![#https://github.com/lojesu/fractol/blob/master/screenshot/legends.png](https://github.com/lojesu/fractol/blob/master/screenshot/legends.png)
-# Screenshot of julia/burnjulia
+<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> ----- for move
+
+<kbd>▲</kbd><kbd>◄</kbd><kbd>▼</kbd><kbd>►</kbd> ----- for move
+
+<kbd>Scroll</kbd> -------- Zoom / Dezoom
+
+<kbd>R</kbd><kbd>G</kbd><kbd>B</kbd> -------- basic colors
+
+<kbd>1</kbd><kbd>2</kbd><kbd>3</kbd><kbd>4</kbd><kbd>5</kbd> --- advanced colors
+
+<kbd>{</kbd><kbd>}</kbd> ---------- change fractal
+
+<kbd><</kbd><kbd>></kbd> ---------- change fractal mod
+  
+<kbd>tab</kbd> ----------- reset the options
+
+<kbd>+</kbd><kbd>-</kbd> ---------- you can also adjust the precision
+### with julia and burnjulia
+<kbd>right clic</kbd> ----- active / desactive parameter changer
+
+you can also move the mouse fo change the parameter
+# Screenshot of julia and burnjulia
 ![#https://github.com/lojesu/fractol/blob/master/screenshot/julia1.png](https://github.com/lojesu/fractol/blob/master/screenshot/julia1.png)
 ![#https://github.com/lojesu/fractol/blob/master/screenshot/julia2.png](https://github.com/lojesu/fractol/blob/master/screenshot/julia2.png)
 ![#https://github.com/lojesu/fractol/blob/master/screenshot/burnjulia1.png](https://github.com/lojesu/fractol/blob/master/screenshot/burnjulia1.png)
